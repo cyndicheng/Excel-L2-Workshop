@@ -10,7 +10,7 @@
 
 ### Prerequisite
 * #### Local installation of the Microsoft Excel or access to Excel Online through Office on own computer.
-* #### Have some basic Excel knowledge (this workshop is intended as a continuation to Excel (Level 1- Data) workshop.
+* #### Have some basic Excel knowledge (this workshop is intended as a continuation of Excel (Level 1- Data) workshop.
 * #### Introductory level knowledge in search, log-in, nagivation websites, etc.
 
 ### Agenda
