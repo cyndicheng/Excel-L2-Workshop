@@ -19,3 +19,10 @@
 * More Lookup functions: VLOOKUP (approximate match), INDEX and MATCH
 * Most common functions: Count and Sum
 * Logical functions: IF, AND, OR and NOT
+
+### References
+* Covid19 Individual List [https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset]
+* Baltimore Annual Salary List [https://data.world/baltimore/6xv6-e66h]
+
+###### Workshop content created by Cindy Cheng, QCL Grad Fellow, on 7/23/20
+
