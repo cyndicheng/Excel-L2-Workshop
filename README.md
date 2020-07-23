@@ -22,7 +22,7 @@
 
 ### References
 * [Covid-19 data set](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-* [Broadway data set](https://data.world/baltimore/6xv6-e66h)
+* [Baltmore data set](https://data.world/baltimore/6xv6-e66h)
 
 ###### Workshop content created by Cindy Cheng, QCL Grad Fellow, on 7/23/20
 
