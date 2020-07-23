@@ -2,7 +2,7 @@
 
 ### Summary
 
-#### Microsoft Excel is a spreadsheet program that is part of the Microsoft Office Suite.  Excel contains formulas and functions that are already available for ease of store, arrange, organize, calculate and display output in tables ahd charts.  It allows users to calculate mathmatical equations without the need of additional tools.
+#### Microsoft Excel is a spreadsheet program that is part of the Microsoft Office Suite.  Excel contains formulas and functions that are already available for ease of store, arrange, organize, calculate and display output in tables and charts.  It allows users to calculate mathmatical equations without the need of additional tools.
 
 ### Purpose
 
